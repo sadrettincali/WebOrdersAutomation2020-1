@@ -8,6 +8,7 @@ import java.time.temporal.ChronoUnit;
 public class DateTimeUtilities {
 
     /**
+     *
      * This method returns current date as a string.
      * Provide a format as a parameter
      *
@@ -28,6 +29,7 @@ public class DateTimeUtilities {
     }
 
     /**
+     *
      * This method returns difference between end and start time
      * @param start time
      * @param end time
